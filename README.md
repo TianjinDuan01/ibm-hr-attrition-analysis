@@ -1,9 +1,6 @@
-# ibm-hr-attrition-analysis
-IBM HR Attrition Analysis — Who Is Leaving &amp; Why
-
 # IBM HR Attrition Analysis — Who Is Leaving & Why
 
-🔗 [View Interactive Dashboard](https://tianjinduan01.github.io/ibm-hr-attrition-analysis/) · [Tableau Public](https://public.tableau.com/app/profile/tianjin.duan/viz/IBMHRAttritionAnalysisWhoIsLeavingWhy/Dashboard1) · [Full Slide Deck (PDF)](./IBM_HR_Attrition_Analysis.pdf)
+[View Interactive Dashboard](https://tianjinduan01.github.io/ibm-hr-attrition-analysis/) · [Tableau Public](https://public.tableau.com/app/profile/tianjin.duan/viz/IBMHRAttritionAnalysisWhoIsLeavingWhy/Dashboard1) · [Full Slide Deck (PDF)](./IBM_HR_Attrition_Analysis.pdf)
 
 ---
 
