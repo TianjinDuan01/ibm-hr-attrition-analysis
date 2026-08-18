@@ -68,3 +68,8 @@ Built in Tableau Public. The dashboard includes:
 
 - `docs/index.html` — GitHub Pages embed of the interactive dashboard
 - `IBM_HR_Attrition_Analysis.pdf` — full slide deck with narrative and findings
+
+## Related Work
+A deeper probabilistic and statistical analysis of this same dataset — covering Bayes' theorem, 
+random variable distributions, and correlation modeling — is available in 
+[ibm-hr-attrition-probability-statistics](https://github.com/TianjinDuan01/ibm-hr-attrition-probability-statistics).
